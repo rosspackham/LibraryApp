@@ -1,0 +1,62 @@
+body {
+	font-family: 'Libre Baskerville', serif;
+	color: saddlebrown;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	align-content: center;
+	background-color: wheat;
+	border: 1.5px solid peru;
+	padding: 20px 20px;
+}
+
+.container h1 {
+	font-size: 40px;
+}
+
+.container h5 {
+
+}
+
+.inputs {
+	padding: 5px 30px;
+	font-size: 10px;
+}
+
+button {
+	border-radius: 25px;
+	background-color: peru;
+	color: white;
+}
+
+#library {
+	background-color: antiquewhite;
+}
+
+#library h3 {
+	color: black;
+}
+
+#book-card {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	align-content: center;
+	background-color: antiquewhite;
+	color: saddlebrown;
+	padding: 20px 20px;
+	border: 1.5px solid peru;
+	font-size: 10px;
+}
+
+#card-title {
+	font-size: 20px;
+}
+
+
+
+
+
